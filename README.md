@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: B. Allen Steve Bernard</h3>
-<h3>Register Number: 212221220004</h3>
+<h3>Name: Rithick S P</h3>
+<h3>Register Number: 212221220043</h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
